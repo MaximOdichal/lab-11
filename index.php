@@ -75,8 +75,8 @@
 	echo "Секунд в дне " . $sec_in_day . "<br>";
 	echo"Секунд в месяце " . $sec_in_month . "<br>";
 	
-	$hour = 12;
-	$min = 47;
+	$hour = 13;
+	$min = 4;
 	$sec = 50;
 	echo $hour .':'. $min .':'. $sec;
 	
