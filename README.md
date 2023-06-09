@@ -82,7 +82,7 @@ echo $var;
 
 <h2 align="center">Решение задач</h2>
 
-```
+```php
 <?php
 	$var = 'hello';
 	echo $var[0];
